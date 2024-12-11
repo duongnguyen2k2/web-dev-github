@@ -1,3 +1,4 @@
-This is a first commit!
+This is another
+ commit!
 
 And here we get commit! #2
